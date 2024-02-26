@@ -20,8 +20,6 @@ The following things cannot be fixed without changes to Bedrock or the Java prot
 - Movement issues around bamboo due to offset differences between Java and Bedrock: [Hurricane](/other/hurricane) can work around it.
 - Can't move mounted entities with carrot/warped fungus on a stick. Hurricane also works around this.
 - Custom anvil recipes
-- Heights lower than -64 or higher than 320 in the overworld with extended height enabled, and heights lower than 0 or higher than 256 in other dimensions
-- Dolphin's Grace potion effect visuals (effects should still work correctly)
 - Invisible item frames
 - Blocks (excluding jack-o-lantern) on entity heads (E.G. armor stands, players)
 - Saddled camels unmoveable/unrideable on bedrock.
